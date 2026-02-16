@@ -1,6 +1,7 @@
 ## Olá!! Eu sou o Cauã Ramos 👋
 
-- Desenvolvedor Frontend
+- Desenvolvedor Frontend, com boa base em HTML, CSS, JavaScript, React, Banco de Dados Relacional, inglês intermediário e noção de Git. Natural de Aracaju/SE, tenho 20 anos e estou cursando Análise e Desenvolvmento de Sistemas na UNINASSAU.
+- Estou em busca de uma primeira oportunidade na área, busco aprender bastante e contribuir com meus conhecimentos no local de trabalho.
 
 
 <div style="display: inline_block"><br>
