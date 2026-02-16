@@ -4,7 +4,7 @@
 - Estou em busca de uma primeira oportunidade na área, busco aprender bastante e contribuir com meus conhecimentos no local de trabalho.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/cau%C3%A3-ramos-465176300/" <img alt="Linkedin" title="Veja meu Linkedin" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"></a>
+  <a href="https://www.linkedin.com/in/cau%C3%A3-ramos-465176300/"> <img alt="Linkedin" title="Veja meu Linkedin" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 <div style="display: inline_block"><br>
